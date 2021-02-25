@@ -21,7 +21,7 @@ The dataset has been made such that each feature is a categorical feature (0, 1)
 Each row represents a single point (restaurant review) and each column its features (presence or not of words used in reviews). Each column is an individual feature apart from the last column which contains the labels, whether a review is positive (1) or negative (0).
 
 ## Setup
-Download the .py files, training_dataset, validation_dataset, and weights file. Place them
+Download the .py files, training_dataset, validation_dataset, and weights file. Place them in a single file or project file.
 
 ## Run Code
 
