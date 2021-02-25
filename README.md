@@ -1,4 +1,4 @@
-# Linear_Regression_Restaurant_Sentiment_Analysis
+# Linear Regression Restaurant Sentiment Analysis
 
 ## Table of Contens
 * [Description](#description)
