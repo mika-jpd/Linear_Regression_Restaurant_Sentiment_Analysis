@@ -35,7 +35,7 @@ Add the following on the class file:
 ```
 where,
 
-k = max iterations
+k = max iterations/n
 alpha = the learning rate
 tolerance = the tolerance rate
       
