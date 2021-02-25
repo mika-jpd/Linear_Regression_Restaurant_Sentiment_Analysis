@@ -1,0 +1,2 @@
+# Linear_Regression_Restaurant_Sentiment_Analysis
+Restaurant Sentiment Analysis using a Linear Regression model
