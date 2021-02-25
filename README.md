@@ -25,7 +25,7 @@ Download the .py files, training_dataset, validation_dataset, and weights file. 
 
 ## Run Code
 
-Add the following on the class file:
+Add the following to the class file:
 
 ```
   x = logistic_regression("train_dataset.tsv", "validation_dataset.tsv",
