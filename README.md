@@ -35,11 +35,11 @@ Add the following on the class file:
 ```
 where,
 
-k = max iterations/n
-alpha = the learning rate
-tolerance = the tolerance rate
+* k = max iterations
+* alpha = the learning rate
+* tolerance = the tolerance rate
       
 Suggested parameters are:
-k = 5000
-alpha = 0.01
-tolerance = 0.0005
+* k = 5000
+* alpha = 0.01
+* tolerance = 0.0005
