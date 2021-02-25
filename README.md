@@ -32,11 +32,13 @@ $ x = logistic_regression("train_dataset.tsv", "validation_dataset.tsv",
 $ x.fit()
 $ x.predict()
 
-where k = max iterations
-      alpha = the learning rate
-      tolerance = the tolerance rate
+where,
+
+k = max iterations
+alpha = the learning rate
+tolerance = the tolerance rate
       
 Suggested parameters are:
-      k = 5000
-      alpha = 0.01
-      tolerance = 0.0005
+k = 5000
+alpha = 0.01
+tolerance = 0.0005
