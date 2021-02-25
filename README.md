@@ -27,11 +27,12 @@ Download the .py files, training_dataset, validation_dataset, and weights file.
 
 Add the following on the class file:
 
-$ x = logistic_regression("train_dataset.tsv", "validation_dataset.tsv",
+```
+  x = logistic_regression("train_dataset.tsv", "validation_dataset.tsv",
                         k, alpha, tolerance)
-$ x.fit()
-$ x.predict()
-
+  x.fit()
+  x.predict()
+```
 where,
 
 k = max iterations
