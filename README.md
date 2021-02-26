@@ -43,3 +43,5 @@ Suggested parameters are:
 * k = 5000
 * alpha = 0.01
 * tolerance = 0.0005
+
+Enjoy!
